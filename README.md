@@ -4,10 +4,6 @@ Name : Pranav Khilnani Domain : Data Science ID : CT12DS213 Duration : 8 weeks
 
 Descryption:
 
-Sure, here's a 300-word script summarizing the work done in this code:
-
----
-
 In this analysis, we aimed to predict car prices using various features from our dataset. Here’s a step-by-step breakdown of our approach:
 
 **1. Data Loading and Preparation**:
